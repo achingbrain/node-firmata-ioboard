@@ -1,7 +1,7 @@
 {
 	"name": "firmata-ioboard",
 	"version": "1.0.0",
-	"description": "Abstracts the interface to firmata firmware",
+	"description": "Firmata implementation of ioboard",
 	"main": "lib/firmata-ioboard.js",
 	"scripts": {
 
