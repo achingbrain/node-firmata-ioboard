@@ -1,6 +1,6 @@
 {
 	"name": "firmata-ioboard",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Firmata implementation of ioboard",
 	"main": "lib/firmata-ioboard.js",
 	"scripts": {
