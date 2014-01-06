@@ -1,6 +1,6 @@
 {
 	"name": "firmata-ioboard",
-	"version": "1.0.2",
+	"version": "2.0.0",
 	"description": "Firmata implementation of ioboard",
 	"main": "lib/firmata-ioboard.js",
 	"scripts": {
@@ -11,7 +11,8 @@
 		"url": "git://github.com/achingbrain/node-firmata-ioboard.git"
 	},
 	"dependencies": {
-		"firmata": ">=0.2.9"
+		"firmata": "~0.2",
+		"ioboard": "~2.0"
 	},
 	"devDependencies": {
 
